@@ -1,5 +1,11 @@
+import HorePages from "./HorePages";
+
 const LandingPages = () => {
-  return <div>LandingPages</div>;
+  return (
+    <div>
+      <HorePages />
+    </div>
+  );
 };
 
 export default LandingPages;
